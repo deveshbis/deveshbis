@@ -6,7 +6,7 @@
 <hr/>
 Hello! 👋 I'm Devesh Biswas, a dedicated Front-End Web Developer. I specialize in crafting engaging and responsive web experiences, blending creativity with technical proficiency to deliver seamless interfaces that captivate and delight users.
 
-#### Github Stats
+#### Github Stats <hr/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshbis&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=deveshbis) 
