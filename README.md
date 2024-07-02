@@ -2,4 +2,4 @@
 
 ### Hi there 👋, I'm Devesh Biswas
 #### Front-End Web Developer
-As a front-end developer passionate about software engineering, I specialize in creating dynamic, responsive, and user-friendly web applications.
+Hello! 👋 I'm Devesh Biswas, a dedicated Front-End Web Developer. I specialize in crafting engaging and responsive web experiences, blending creativity with technical proficiency to deliver seamless interfaces that captivate and delight users.
