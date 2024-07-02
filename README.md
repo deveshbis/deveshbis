@@ -9,6 +9,7 @@ Hello! 👋 I'm Devesh Biswas, a dedicated Front-End Web Developer. I specialize
 #### Github Stats <hr/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshbis&show_icons=true&count_private=true)  
 
+#### Commit Count / Daily Streak <hr/>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=deveshbis) 
 
 <h3 align="left">Skills:</h3>
