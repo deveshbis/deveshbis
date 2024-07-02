@@ -2,6 +2,12 @@
 
 ### Hi there 👋, I'm Devesh Biswas
 #### Front-End Web Developer
+
+- 🔭 I’m currently working on Web development 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web development 
+
 #### About Me
 <hr/>
 Hello! 👋 I'm Devesh Biswas, a dedicated Front-End Web Developer. I specialize in crafting engaging and responsive web experiences, blending creativity with technical proficiency to deliver seamless interfaces that captivate and delight users.
